@@ -25,7 +25,7 @@ This project implements customer segmentation using RFM (Recency, Frequency, Mon
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/satyamdarade007/Customer_Segmentation_Data_Analysis
    cd customer-segmentation
    ```
 
